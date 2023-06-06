@@ -34,8 +34,8 @@ nav .logo {
 nav .list {
   font-family: 'Instrument Serif', serif;
   padding: 0;
-  margin: 0 -290px;
-  width: 60%;
+  margin: 0;
+  width: 80%;
   height: 100%;
   display: flex;
   justify-content: space-around;
@@ -151,17 +151,11 @@ h1, h3 {
 .redes {
   display: flex;
   justify-content: flex-end;
-  padding: 0 -50%;
-  margin: 0;
-  width: 100%;
-  height: 0;
-  flex-wrap: wrap;
+  align-items: center;
 }
 
 .redes1, .redes2, .redes3 {
-  padding: 7px 7px;
-  margin: 20px 20px;
-  max-width: 100%;
+  padding: 15px 15px;
 }
 
 .yes, .map, .info{
